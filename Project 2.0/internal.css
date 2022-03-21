@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.casual{
+    width: 400px;
+    height: 350px;
+    box-shadow: 5px 5px 5px 5px grey;
+
+}
+
+.casual{
+    margin: 10px;
+    padding: 0px;
+    margin-top: 100px;
+    margin-left: 150px;
+}

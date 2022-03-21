@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family:  Gothic;
+}
+
+header{
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url(stripe.jpeg) ;
+    color: white;
+    font-family: Times New Roman;
+    letter-spacing: 0.5px;
+}
+
+
+
+table{
+    margin: 10px;
+    padding: 20px;
+    margin-top: 5px;
+    margin-left: 192px;
+}
+
+table{
+    
+    background-image: fixed;
+	height: cover;
+    left: 0vh;
+    transition: none;
+}
+
+.head{
+    background-image: url(stripe.jpeg);
+}
+
+.top{
+    color: white;
+}
+
+.td{
+    margin-left: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+footer{
+	padding: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	background-image: url(stripe.jpeg) ;
+    color: white;
+	font-family: Times New Roman;
+	letter-spacing: 0.5px;
+}
+
+image{
+    margin-left: 25px;
+    margin-top: 15vh;
+    padding: 30px;
+    image-orientation: flip;
+}
+
+.image tr td{
+    padding: 10px;
+    padding-bottom: 10vh;
+}

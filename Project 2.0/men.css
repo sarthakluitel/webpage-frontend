@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family:  Gothic;
+}
+
+
+header
+{
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url(stripe.jpeg) ;
+    color: white;
+    font-family: Times New Roman;
+    letter-spacing: 0.5px;
+}
+.men
+{
+    background-image:  url(stripe.jpeg);
+	height: cover;
+    left: 20vh;
+    transition: none;
+    }
+.men img
+{
+    width: 400px;
+    height: 350px;
+    box-shadow: 7px 7px 7px 7px rgb(85, 84, 84);
+}
+.men img:hover{
+    transform: scale(1.1);
+}
+
+.men img{
+    margin: 10px;
+    padding: 0px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+footer{
+	padding: 30px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	background-image: url(stripe.jpeg) ;
+    color: white;
+	font-family: Times New Roman;
+	letter-spacing: 0.5px;
+}
+
+
+
